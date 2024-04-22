@@ -1,4 +1,80 @@
 # -trabalhoInterdiciplinar
+Documentação do projeto
+Contexto do projeto:
+Introdução:
+ A interpretação dos resultados de exames sanguíneos é fundamental para a
+saúde, mas muitas vezes é desafiadora devido à linguagem técnica utilizada pelos
+médicos. Para abordar essa dificuldade, propomos o desenvolvimento de uma
+aplicação web dedicada à tradução e interpretação de exames sanguíneos.
+ Essa aplicação visa tornar os resultados dos exames mais acessíveis e
+compreensíveis para o público em geral. Os usuários poderão inserir os dados de
+seus exames e receber explicações detalhadas sobre cada parâmetro analisado,
+assim como orientações sobre o que esses resultados implicam para sua saúde.
+ Assim, essa aplicação representa uma oportunidade de melhorar a saúde pública,
+capacitando as pessoas com informações claras e relevantes para que possam
+tomar decisões sobre sua saúde e buscar o cuidado médico adequado quando
+necessário.
+Problema:
+ Muitas pessoas enfrentam dificuldades ao tentar entender os resultados de seus
+exames sanguíneos. A complexidade dos termos médicos e dos números
+apresentados pode levar a interpretações equivocadas ou à falta de compreensão
+sobre o estado de saúde. Uma solução que simplifique esses resultados e os torne
+mais acessíveis é crucial para garantir que as pessoas possam compreender melhor
+sua saúde e tomar medidas adequadas em relação a ela.
+Objetivo do projeto:
+ O objetivo deste projeto é desenvolver uma aplicação web que facilite a
+compreensão dos resultados de exames sanguíneos para o público em geral.
+Através desta aplicação, os usuários poderão inserir os dados de seus exames e
+receber explicações claras e objetivas sobre o significado de cada parâmetro
+analisado. Esperamos que essa ferramenta ajude as pessoas a entender melhor
+sua saúde e a tomar decisões informadas sobre seu bem-estar com base nos
+resultados dos exames.
+Justificativa:
+ A justificativa é a necessidade de fornecer uma ferramenta acessível que ajude as
+pessoas a compreenderem seus exames sanguíneos. A falta de compreensão dos
+resultados pode levar a decisões inadequadas ou a ignorar questões de saúde
+importantes. Portanto, uma solução que simplifique e explique esses resultados é
+fundamental para capacitar os indivíduos a cuidarem melhor de sua saúde e a
+tomarem medidas adequadas.
+Público-alvo:
+ Nosso público-alvo consiste em pessoas que enfrentam dificuldades no acesso
+aos serviços de saúde, seja por questões financeiras, de locomoção, ou qualquer
+outra. Além disso, os idosos, que muitas vezes lidam com condições de saúde
+crônicas e podem ter dificuldades de compreensão devido à idade avançada.
+ Além disso, profissionais de saúde, como médicos e enfermeiros, são parte
+essencial desse público, pois buscam ferramentas que facilitem a comunicação e
+compreensão dos resultados de exames sanguíneos com seus pacientes.
+ Nossos desenvolvedores e empresas parceiras estão comprometidos em criar uma
+aplicação web acessível e de fácil utilização, que atenda às necessidades tanto dos
+profissionais de saúde quanto dos pacientes.
+Especificação do projeto:
+Histórias de usuários:
+1. Paciente com dificuldades de acesso aos serviços de saúde;
+2. Idoso lidando com condições de saúde crônicas;
+3. Pacientes que não entendem a linguagem médica;
+4. Pessoas com dificuldade visual, locomoção, e outras.
+Todos esses necessitam de uma ferramenta que simplifique e explique seus
+resultados de exames sanguíneos.
+Requisitos do projeto:
+• Interface clara: a aplicação deve ter uma interface fácil de usar, com
+navegação acessível.
+• Tradução de Exames Sanguíneos: o projeto deve ser capaz de traduzir os
+resultados de exames sanguíneos para uma linguagem simples e
+compreensível a todos.
+• Explicações Detalhadas: deve fornecer explicações detalhadas sobre cada
+parâmetro analisado nos exames.
+• Compatibilidade com Dispositivos Móveis: a aplicação deve ser compatível
+com dispositivos móveis, permitindo o acesso em qualquer lugar.
+• Segurança dos Dados: deve garantir a segurança dos dados dos usuários.
+Projeto de interface:
+Fluxo do usuário:
+Wireframes das telas:
+Protótipo Interativo [LINK]:
+Metodologia:
+Organização da equipe e divisão de papéis:
+Quadro de controle de tarefas - Kanban):
+
+
 Artefatos do Processo de Design Thinking
 MATRIZ CSD
 CERTEZAS:
